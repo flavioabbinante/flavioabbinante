@@ -18,4 +18,4 @@ Between competitions I train on [pwn.college](https://pwn.college).
 
 ## Contact
 
-[email](mailto:YOUR-EMAIL) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
+[email](mailto:fabbinante10@outlook.com) 
