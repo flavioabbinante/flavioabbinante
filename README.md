@@ -1,53 +1,29 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Flavio Abbinante" width="745">
+</p>
+
 # Flavio Abbinante
 
-Computer Science student (L-31) at the University of Bari, junior IT engineer, heading toward a master's in cybersecurity.
-
-I play CTFs and build small tools I actually use. Everything here is something I run, not a tutorial follow-along.
-
----
+Computer Science student (L-31) at the University of Bari and junior IT engineer, moving toward a master's in cybersecurity.
 
 ## CTF
 
-I compete mainly in **pwn**, **reverse engineering**, **crypto** and **forensics**. Writeups: [`writeupctf`](https://github.com/flavioabbinante/writeupctf)
+I play in **pwn**, **rev**, **crypto** and **forensics**. Writeups: [`writeupctf`](https://github.com/flavioabbinante/writeupctf)
 
-Three I enjoyed writing up:
+- [Hyperelliptic Drift](https://github.com/flavioabbinante/writeupctf) — `crypto` — lattice attack on the hidden number problem, against ECDSA nonces from a hyperelliptic-curve PRNG
+- [aName](https://github.com/flavioabbinante/writeupctf) — `pwn` — heap relative write turned into a GOT overwrite
+- [mail0g](https://github.com/flavioabbinante/writeupctf) — `forensics` — data exfiltrated hex-encoded inside SMTP recipient addresses
 
-| Challenge | Category | Idea |
-| --- | --- | --- |
-| Hyperelliptic Drift | crypto | Lattice attack on the hidden number problem, against ECDSA nonces from a hyperelliptic-curve PRNG |
-| aName | pwn | Heap relative write turned into a GOT overwrite |
-| mail0g | forensics | Data exfiltrated hex-encoded inside SMTP recipient addresses |
+Between competitions I train on [pwn.college](https://pwn.college).
 
+<<<<<<< HEAD
 <!-- CTF-STATS:START -->
 <!-- Blocco generato da tools/update_readme.py — non modificare a mano. -->
 
 _Nessun writeup ancora pubblicato._
 <!-- CTF-STATS:END -->
+=======
+## Contact
+>>>>>>> 5b43a2a (nuovo README con banner)
 
-Also working through [pwn.college](https://pwn.college) for Linux internals and binary exploitation fundamentals.
-
----
-
-## Things I've built
-
-**`esse3.py`** — Read-only client for the university's Esse3 (CINECA) REST API. Pulls transcript, averages and exam bookings into structured Markdown for my notes vault. Credentials stay in the local keyring and never touch anything else.
-
-**`ripasso.py`** — Active-recall study tool: spaced repetition over my own course notes, with an exam-simulation mode and a check that flags answers that sound right but say nothing.
-
-**Homelab** — Proxmox on a mini-PC: segmented network, self-hosted services, and a place to detonate things I take apart.
-
-**Minecraft server stack** — Paper + BentoBox + MythicMobs + Oraxen, plus a modded NeoForge 1.21.1 server. Where I first learned that "it works on my machine" is not a deployment strategy.
-
----
-
-## Currently
-
-- Finishing the L-31 and applying for an LM-66 cybersecurity master's
-- Getting deeper into binary exploitation and heap internals
-- Rebuilding the homelab around proper network segmentation
-
----
-
-## Reach me
-
-[GitHub](https://github.com/flavioabbinante) · [email](mailto:YOUR-EMAIL) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
+[email](mailto:YOUR-EMAIL) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
