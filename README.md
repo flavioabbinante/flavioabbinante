@@ -16,14 +16,6 @@ I play in **pwn**, **rev**, **crypto** and **forensics**. Writeups: [`writeupctf
 
 Between competitions I train on [pwn.college](https://pwn.college).
 
-<<<<<<< HEAD
-<!-- CTF-STATS:START -->
-<!-- Blocco generato da tools/update_readme.py — non modificare a mano. -->
-
-_Nessun writeup ancora pubblicato._
-<!-- CTF-STATS:END -->
-=======
 ## Contact
->>>>>>> 5b43a2a (nuovo README con banner)
 
 [email](mailto:YOUR-EMAIL) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
